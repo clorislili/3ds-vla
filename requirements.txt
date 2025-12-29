@@ -212,4 +212,4 @@ yarl==1.9.4
 zipp==3.20.0
 -e git+https://github.com/IDEA-Research/Grounded-Segment-Anything.git@2b1b72eb1799facb0cbdc7daf3af133922b1d51b#egg=groundingdino&subdirectory=GroundingDINO
 
-# -e git+https://github.com/facebookresearch/pytorch3d.git@055ab3a2e3e611dff66fa82f632e62a315f3b5e7#egg=pytorch3d
+-e git+https://github.com/facebookresearch/pytorch3d.git@055ab3a2e3e611dff66fa82f632e62a315f3b5e7#egg=pytorch3d
