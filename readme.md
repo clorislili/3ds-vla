@@ -69,3 +69,8 @@ bash 1-collect-data.sh.
 ```
 
 The pipeline first collects raw data within the RLBench simulator, followed by object mask extraction. Subsequently, it generates the training JSON metadata, and finally generating the point clouds."
+
+
+## 6. Others
+
+The repo is built on Peract, RLBench, and, Llama-Adapter. Thanks for these amazing work.
